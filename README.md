@@ -104,4 +104,4 @@ app
 ---
 
 ## About
-First-year C++ project for expense tracking and smart budget optimization.
+Smart Expense Tracker & Budget Optimizer using C++ and file handling to manage income, expenses, spending analysis, financial health score, and budget suggestions. Features dynamic expense categories, percentage analysis, and highest/lowest spending category detection.
